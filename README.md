@@ -17,9 +17,9 @@ Develop a **Java CLI-based Quiz Application** that allows users to attempt multi
 
 ## 🚀 How to Run
 
-Compile the program: javac QuizApp.java
+Compile the program : javac QuizApp.java
 
-Run the program : java QuizApp
+Run the program :  java QuizApp
    
 ## Sample Output
 --- Online Quiz App ---
