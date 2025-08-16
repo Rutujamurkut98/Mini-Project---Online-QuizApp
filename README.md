@@ -15,8 +15,10 @@ Develop a **Java CLI-based Quiz Application** that allows users to attempt multi
 - **Tools:** VS Code / IntelliJ IDEA / Eclipse  
 - **Data Structures:** Arrays, Classes, Objects  
 
-## 🚀 How to Run  
+## 🚀 How to Run
+
 Compile the program: javac QuizApp.java
+
 Run the program : java QuizApp
    
 ## Sample Output
